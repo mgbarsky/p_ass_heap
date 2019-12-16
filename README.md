@@ -1,4 +1,4 @@
-# Binary heap
+# Priority of Middle Class 
 A priority queue is an array where items are associated with their priorities. Items are withdrawn from a priority queue in order of their priorities starting with the highest priority item first. If the maximum priority item is required, then a heap is constructed such than priority of every node is greater than the priority of its children.
 
 A sample class <em>MinHeap</em> in the starter code shows how to implement the priority queue where items can be extracted starting with the lowest priority. The code uses numpy arrays to ensure efficient implementation.
